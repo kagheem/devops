@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2669-C2F9
+
+ Directory of C:\Users\hp\OneDrive\Desktop\APP1
+
+03/05/2024  05:17 PM    <DIR>          .
+03/05/2024  05:17 PM    <DIR>          ..
+03/05/2024  05:16 PM               360 fichier1.txt
+03/05/2024  05:17 PM               413 fichier2.txt
+03/05/2024  05:17 PM               466 fichier3.txt
+03/05/2024  05:17 PM               519 fichier4.txt
+03/05/2024  05:17 PM                 0 fichier5.txt
+               5 File(s)          1,758 bytes
+               2 Dir(s)  49,472,491,520 bytes free
